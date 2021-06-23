@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "FirstName": "Chris",
+    "LastName": "Sharkey",
+    "type": "Contact",
+    "Email": "chris@autopilothq.com",
+    "Phone": "4159945916",
+    "LeadSource": "Autopilot",
+    "Status": "Testing",
+    "Company": "Magpie API"
+  }
+}
